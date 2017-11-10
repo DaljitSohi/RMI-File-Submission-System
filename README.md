@@ -40,7 +40,7 @@ Server Files ->>
 
 Server File
 ----------------------------------------------------------------------------------------------------------------------------------
-Stores the Assignments submitted by students
+Stores the Assignments submitted by students.
 Contains nessassry files to log Students, and TAs into the System.
 
   
