@@ -27,13 +27,13 @@ Client Files ->>
   -> Declaration of the FileApp object's methods, that resides in the RMI Registry.
 
 Server Files ->>
-FileAppInterface.java
+- FileAppInterface.java
   -> Declaration of the FileApp object's methods, that resides in the RMI Registry.
   
-FileApp.java
+- FileApp.java
   -> Containts the Implements the 'FileAppInterface.java', and defines it's methods.
 
-Server.java
+- Server.java
   -> Places and instance of FileApp object in the Registry.
   -> Starts the registry, and with allows for Remote Method Invocations.
 
